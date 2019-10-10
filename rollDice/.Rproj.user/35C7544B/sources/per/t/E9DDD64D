@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570687900321.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2458072117",
+    "id" : "E9DDD64D",
+    "lastKnownWriteTime" : 1570687622,
+    "last_content_update" : 1570687622,
+    "path" : "D:/Dhruv/packages/rollDice/R/roll_dice.R",
+    "project_path" : "R/roll_dice.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
